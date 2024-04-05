@@ -9,6 +9,12 @@ body {
 h1 {
   color: #333;
 }
+#logo {
+  width: 200px;
+  height: auto;
+
+
+}
 
 #cardForm {
   margin: 20px auto;
